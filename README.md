@@ -3,5 +3,5 @@
 This workshops is talking about open source.
 
 Audience: 
-Name: 
-Programming langauge: 
+Name: عبدالرحمن طه 
+Programming langauge: جافا 
