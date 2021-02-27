@@ -23,6 +23,7 @@ The practice was to do the next steps:
 | Elmufti     |   Awadalla  |    ENG |
 | osama |  zbibi|  ENG |
 | Mohammed | AlRasheed |  ENG |
+| Alwaleed | S. Alfaki |  ENG |
 | Ahmed | Ak |  ENG |
 | maab | Ali |  ENG |
 | Eymen | Turkmen |  ENG |
