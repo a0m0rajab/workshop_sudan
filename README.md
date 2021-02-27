@@ -20,4 +20,5 @@ The practice was to do the next steps:
 |:-----------:|:-------:|:----:|
 | Abdurrahman |   Taha  |   ENG   |
 | Abdurrahman |  Abdellatif |   ENG |
-| Elmufti     |   Awadalla  |    ENG
+| Elmufti     |   Awadalla  |    ENG |
+| osama |  zbibi|  ENG |
