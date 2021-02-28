@@ -16,16 +16,16 @@ The practice was to do the next steps:
 
 # Audience: 
 
-|     Name    | Surname | Fact |
-|:-----------:|:-------:|:----:|
-| Abdurrahman |   Taha  |   ENG   |
-| Abdurrahman |  Abdellatif |   ENG |
-| Elmufti     |   Awadalla  |    ENG |
-| osama |  zbibi|  ENG |
-| Mohammed | AlRasheed |  ENG |
-| Alwaleed | S. Alfaki |  ENG |
-| Ahmed | Ak |  ENG |
-| maab | Ali |  ENG |
-| Eymen | Turkmen |  ENG |
-| Adnan | Abdu |  ENG |
-| Ahmed | Abbas |  ENG |
+|     Name    | Surname |
+|:-----------:|:-------:|
+| Abdurrahman |   Taha  |   
+| Abdurrahman |  Abdellatif |
+| Elmufti     |   Awadalla  |
+| osama |  zbibi|  
+| Mohammed | AlRasheed |
+| Alwaleed | S. Alfaki |
+| Ahmed | Ak |  
+| maab | Ali |  
+| Eymen | Turkmen |
+| Adnan | Abdu |  
+| Ahmed | Abbas | 
